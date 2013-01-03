@@ -18,10 +18,7 @@ namespace SportsStore.WebUI.Controllers
         public ProductsController(IProductsRepository productsRepository) 
         {
             this.productsRepository = productsRepository;
-
-            // При ручном задании строки connectionString было так:
-            //string connString = @"Server=.\SQLEXPRESS; Database=SportsStore; Trusted_Connection=yes;";
-            //productsRepository = new SqlProductsRepository(connString);
+            // Тут было примечание
         }
 
         public ViewResult List(string category, int page = 1)
