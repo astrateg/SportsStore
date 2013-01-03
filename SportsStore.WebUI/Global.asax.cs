@@ -10,9 +10,6 @@ using System.Web.UI;
 
 namespace SportsStore.WebUI
 {
-    // Note: Для получения информации о IIS6 или IIS7 classic mode, 
-    // посетите сайт http://go.microsoft.com/?LinkId=9394801
-
     public class MvcApplication : System.Web.HttpApplication
     {
         public static void RegisterRoutes(RouteCollection routes)
