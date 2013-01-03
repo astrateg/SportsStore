@@ -10,9 +10,6 @@ using System.Web.UI;
 
 namespace SportsStore.WebUI
 {
-    // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
-    // visit http://go.microsoft.com/?LinkId=9394801
-
     public class MvcApplication : System.Web.HttpApplication
     {
         public static void RegisterRoutes(RouteCollection routes)
@@ -55,8 +52,6 @@ namespace SportsStore.WebUI
 
 protected void Application_BeginRequest(object sender, EventArgs e)
 {
-    // Uses Web Forms code to apply "auto" culture to current thread and deal with 
-    // invalid culture requests automatically 
     using (var fakePage = new Page())
     {
         var ignored = fakePage.Server;     // Work around a Web Forms quirk 
