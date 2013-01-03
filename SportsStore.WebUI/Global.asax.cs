@@ -55,8 +55,6 @@ namespace SportsStore.WebUI
 
 protected void Application_BeginRequest(object sender, EventArgs e)
 {
-    // Uses Web Forms code to apply "auto" culture to current thread and deal with 
-    // invalid culture requests automatically 
     using (var fakePage = new Page())
     {
         var ignored = fakePage.Server;     // Work around a Web Forms quirk 
