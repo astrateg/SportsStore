@@ -1,0 +1,14 @@
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+c:\users\alex\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\ru-RU\SportsStore.WebUI.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.App_LocalResources.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.App_LocalResources.Resources.ru-RU.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\ru-RU\SportsStore.WebUI.resources.dll
